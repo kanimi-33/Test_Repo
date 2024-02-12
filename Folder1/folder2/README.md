@@ -1,4 +1,4 @@
-| col1 | col2 |
-| ---- | ---- |
-| row1 | row2 |
-| row3 | row4 |
+| ID  | NAME    |
+| --- | ------- |
+| 1   | Sainath |
+| 2   | Kaif    |
